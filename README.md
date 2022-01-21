@@ -19,7 +19,7 @@ TRON 생태계의 관문인 TRON Wallet은 TRON 퍼블릭 체인의 필수 구�
 **사용하기 전에 새 계정을 활성화해야 합니다. 새 계정을 활성화하려면 소유자가 원하는 양의 TRX를 해당 계정에 전송해야 합니다.
 **
 
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/01.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-01.png '钱包类别')
 
 <center>TokenPocket의 Tron 지갑 생성 페이지</center>
 
@@ -27,7 +27,7 @@ TRON 생태계의 관문인 TRON Wallet은 TRON 퍼블릭 체인의 필수 구�
 
 사용자가 이미 TRON 지갑을 갖고 있는 경우, TP 월렛의 "개인 키 가져오기"를 통해 새 월렛을 추가할 수 있습니다. 개인 키를 입력하거나 QR 코드를 스캔하여 지갑을 추가할 수 있습니다.
 
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/02.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-02.png '钱包类别')
 
 ### 대역폭 포인트 및 에너지의 동결 및 동결 해제
 
@@ -42,7 +42,7 @@ TRON 생태계의 관문인 TRON Wallet은 TRON 퍼블릭 체인의 필수 구�
 **TRON 동결**
 
 BP 및 에너지는 TRX 동결을 통해 얻을 수 있으며, 다른 주소로 위임될 수도 있습니다. 이 경우 위임된 계정에는 획득한 리소스에 대한 권한이 부여되는 동안 위임 계정은 동결된 TRX 및 해당 표를 소유합니다. 일반적인 동결 형태와 마찬가지로 위임된 리소스은 3일 동안 동결됩니다.
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/03.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-03.png '钱包类别')
 
 **TRON 동결 해제**
 
@@ -75,13 +75,13 @@ TRX는 세 가지 방법으로 얻을 수 있습니다: 토큰 대 토큰 플래
 **플래시 스왑**
 
 플래시 스왑을 사용하면 다른 토큰을 TRX로 교환할 수 있습니다. 대부분의 거래소에서 채택한 주문 모델과 달리 플래시 스왑은 토큰 스왑을 몇 초 만에 수행할 수 있는 '뱅크' 모델을 활용합니다.
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/04.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-04.png '钱包类别')
 
 **법정통화로 구매**
 
 사용자는 TRX를 TokenPocket에서 법정통화로 구매할 수 있습니다. TRX는 구매 후 Tron 지갑으로 바로 입금됩니다.
 
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/05.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-05.png '钱包类别')
 
 ### TRON의 다른 토큰들
 
@@ -97,7 +97,7 @@ TRC-20은 토큰 발행을 위한 트론 블록체인의 기술 계약 표준으
 
 TRC20-USDT는 TRON 네트워크에서 Tether가 발행한 USD 페깅 스테이블 코인입니다. Tron에서의 발행, 보유, 전송은 스마트 컨트랙트를 통해 완료되며, 완전무료 투명한 프로세스, 전송 수수료 제로, 즉석 전송이 가능합니다. 또한 TRON 기반 프로토콜 및 DApps(Decentralised Applications)와의 상호 운용성을 지원하는 동시에 사용자가 TRON 네트워크를 통해 법정통화와 고정된 통화를 거래하고 전송할 수 있습니다.
 
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/06.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-06.png '钱包类别')
 
 거래 수수료 측면에서 TRC20-USDT는 계정에 에너지가 충분할 때 무료 거래를 제공할 수 있습니다. 주요 거래소 상황에 따르면 Omni 프로토콜을 기반으로 한 USDT는 인출 수수료가 가장 높아 한 거래에 4~10달러의 사용자 비용이 들고 ERC-20 USDT는 1~5달러의 거래 수수료가 필요합니다. 이에 비해 TRC-20은 거래 수수료가 필요없습니다.
 
@@ -109,17 +109,17 @@ TokenPocket은 TRON-USDT를 완벽하게 지원합니다. TRON-USDT와 USDT를 �
 
 TRC-20 USDT 에 대해 더 알아보기：https://Tron.network/usdt。
 
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/07.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-07.png '钱包类别')
 
 #### TRON과 스테이블 코인 USDJ
 
 USDJ는 TRON 네트워크에서 탈중앙 스마트 계약을 통해 생성된 새로운 통화입니다. USDJ는 누구나 TRX를 담보로 생성할수 있습니다. USDJ는 다른 어떤 암호화폐가 생성되었을 때처럼 자유롭게 유통됩니다. CDP(Collateralized Debt Position)와 자율적인 피드백 메커니즘을 통해 가치가 US달러에 고정됩니다.
 
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/08.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-08.png '钱包类别')
 
 JUST는 USDJ와 JST의 두 가지 토큰 시스템을 채택한 탈중앙 대출 플랫폼으로, USDJ는 US달러와 1:1로 고정되어 JUST의 CDP 포털에서 TRX를 담보로 생성할 수 있습니다. JST는 JUST에서의 이자 지불, 플랫폼 유지보수, 투표 등을 통한 네트워크 거버넌스 등에 활용됩니다.
 
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/09.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-09.png '钱包类别')
 
 JUST-DeFi는 TRX를 담보로 USDJ를 얻을 수 있는 TokenPocket에서 지원됩니다.
 
@@ -143,7 +143,7 @@ DLive의 일일 도네이션 및 구독 수익의 25%가 BTT 스테이킹 보상
 
 사용자는 TokenPocket을 통해 DLive에 접속하고 BTT 스테이킹 보상을 받을 수 있습니다.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/10.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-10.png '节点钱包')
 
 DLive BTT 스테이킹 페이지에서 "Stake In"을 클릭하여 BTT의 지분을 확보하고 "Claim Reward"를 클릭하여 배당금을 수령합니다.
 
@@ -162,17 +162,17 @@ Tron 기반 토큰은 Tron 의 탈중앙 거래소에서 거래될 수 있습니
 （1）Poloni DEX
 PoloniDex는 Poloniex 산하의 트론 기반 탈중앙 거래 플랫폼입니다. 2014년에 설립된 Poloniex는 세이셸에 등록된 세계적인 디지털 자산 거래 플랫폼입니다. Poloniex가 설립된 이후 안전하고 효율적인 서비스를 이용자들에게 인정받아, 오래 전 실거래량이 세계 3위권 안에 들었습니다. 원래의 트롤박스 시스템을 통해 사용자는 보다 흥미로운 거래 경험을 할 수 있습니다. Poloniex의 비전은 글로벌 신뢰 시스템을 재구성하고, 거래가 구석구석까지 도달하도록 하고, 가치를 자유롭게 하고, 가치를 자유롭게 흐르게 하는 것입니다.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/11.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-11.png '节点钱包')
 
 （2）TronTrade
 
 Trontrade는 트론 기반의 탈중앙 거래 플랫폼으로 다양한 TRC10과 TRC20 암호화폐를 쉽게 사고팔 수 있습니다. TronTrade의 목표는 TRC10 및 TRC20 토큰을 위한 가장 안전하고 사용자 친화적이며 가장 신뢰할 수 있는 탈중앙 거래소가 되는 것입니다.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/12.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-12.png '节点钱包')
 
 （3）Newdex-Tron: 세계 유수의 탈중앙 거래소
 Newdex는 2018년 8월 8일에 설립되어 EOS 퍼블릭 체인에 처음 공개되었습니다. 2019년 8월, EOS 퍼블릭 체인과 별도로 Newdex는 TRON 퍼블릭 체인을 지원하기 시작했습니다. Newdex는 멀티체인 및 크로스체인 탈중앙 거래 플랫폼을 구축하는 데 전념하고 있습니다.
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/13.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-13.png '节点钱包')
 
 ## TRON 지갑의 기능들
 
@@ -220,7 +220,7 @@ TRX 전송은 수신자의 QR 코드를 스캔하여 수행할 수 있습니다.
 
 전송하려면 사용자가 관찰 지갑에서 조작해야 합니다. 일반 전송과 다른 점은 허가 시 QR코드가 뜬다는 점입니다. 그런 다음 콜드지갑으로 QR코드를 스캔하면 다른 QR코드가 생성됩니다. 관찰 지갑으로 QR 코드를 스캔하여 전체 프로세스를 완료합니다.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/14.png'节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-14.png '节点钱包')
 
 ### TRX 받기
 
@@ -234,7 +234,7 @@ TRON 지갑에서 사용자는 다른 사람으로부터 토큰을 받고 거래
 
 사용자가 수신자 QR 코드를 스캔하여 전송하는 방법과 마찬가지로 토큰 전송자가 자신의 QR 코드를 스캔하도록 하여 토큰을 받을 수도 있습니다.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/15.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-15.png '节点钱包')
 
 ### TRON 노드 투표
 
@@ -243,7 +243,7 @@ TRON 지갑에서 사용자는 다른 사람으로부터 토큰을 받고 거래
 투표자 : 투표에 참여하는 TRON 커뮤니티 회원.
 보상 분배 비율 : 슈퍼 대표와 슈퍼 파트너가 얻은 총 보상 중 유권자에 대한 보상 비율.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/16.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-16.png '节点钱包')
 
 #### 1、TRON 투표 규칙
 
@@ -282,13 +282,13 @@ TRON 지갑으로 투표
 
 TRON 지갑의 투표 페이지에서 투표할 후보와 투표 금액을 선택합니다. 이것이 투표를 하기 위한 가장 쉽고 빠른 방법입니다.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/17.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-17.png '节点钱包')
 
 웹사이트에서 투표
 
 https://Tronscan.io/ 로 이동하여 투표 페이지에서 투표할 노드를 선택하고 "투표"를 클릭합니다.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/18.png'节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-18.png '节点钱包')
 
 ### TRON의 토큰 수집기능
 
@@ -296,13 +296,13 @@ TRON의 기본 레이어에서 지원되는 자산 수집 기능은 다중 계�
 
 사용자는 모든 계정을 지갑으로 가져와야 합니다. 모든 계정이 동일한 암호를 공유하는 경우 사용자는 한 번만 권한을 부여하면 되고, 그렇지 않으면 여러 번 권한을 부여하면 됩니다.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/19.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-19.png '节点钱包')
 
 ### TRON DApp 화이트 리스트
 
 화이트리스트 기능은 사용자가 DApps를 더 잘 활용할 수 있도록 매우 편리합니다. 일반적으로 TRON에서 DApps를 탐색할 때 사용자는 스마트 계약과 상호 작용할 때마다 암호를 입력해야 합니다. 화이트리스트 기능은 DApp에서 특정 스마트 계약 작업에 대한 암호를 입력할 필요 없이 인증을 수행하는 것입니다. 사용자는 화이트리스트 기능이 켜져 있을 때 암호를 한 번만 입력하면 됩니다.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/20.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-20.png '节点钱包')
 
 ### TRON 탐색기
 
@@ -310,13 +310,13 @@ TRON의 기본 레이어에서 지원되는 자산 수집 기능은 다중 계�
 
 현재 일반적으로 사용되는 TRON 탐색기는 TronSCAN입니다. Tronscan.io은 TRON을 기반으로 하는 최초의 블록 탐색기로, 검색 및 쿼리 트랜잭션, 계정, 블록, 노드, 스마트 계약 등의 블록 탐색기의 일부 기본 기능은 물론, 체인에 대한 데이터 수집 및 쿼리도 포함하고 있습니다. 한편, TronSCAN에는 웹 월렛과 Bancor 기반 DEX도 내장되어 있어 TronSCAN의 애플리케이션 시나리오를 풍부하게 해 줍니다.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/21.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-21.png '节点钱包')
 
 ### TRON 지갑 주문 조정
 
 많은 사용자가 여러 개의 TRON 계정을 가지고 있으며, 지갑 주문 조정 기능을 통해 사용자가 단순히 드래그만 하면 가장 자주 사용하는 지갑을 우선 넣을 수 있어 지갑을 전환하고 자산을 보다 편리하게 관리할 수 있습니다.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/22.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-22.png '节点钱包')
 
 ### TRON 테스트넷
 
@@ -324,7 +324,7 @@ TRON 테스트 네트워크는 메인넷에 상대적입니다. TRON 메인넷�
 
 일반적으로 사용되는 Tron 테스트넷은 Tron Testnet과 SUN 네트워크를 지원하는 TronLIN입니다. 안정적인 운영이 가능하며 프로젝트 개발 및 업데이트 지원, 초기 사용자 참여 등에 활용할 수 있습니다.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/23.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-23.png '节点钱包')
 
 Nile 테스트넷(http://nileex.io)도 좋은 옵션으로, 코드 버전은 트론 메인넷과 일치합니다.
 
@@ -334,7 +334,7 @@ Tron의 공식 채널로는 트위터 @Tronfoundation과 @justinsuntron이 있�
 
 사용자는 TokenPocket과 같은 Tron지갑에서 Tron관련 정보를 얻을 수도 있습니다. TokenPocket은 최신 업데이트, 플래시 뉴스 및 Tron에 대한 기사를 포함하여 사용자를 위한 원스톱 읽기 경험을 제공합니다.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/24.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-24.png '节点钱包')
 
 ### TRON DApps 탐험
 
